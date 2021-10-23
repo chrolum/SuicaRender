@@ -6,3 +6,5 @@ SuicaRender.vcxproj.filters
 SuicaRender.vcxproj.user
 *.o
 main
+x64/
+output.tga

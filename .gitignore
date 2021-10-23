@@ -1,0 +1,8 @@
+build/
+.vs/
+SuicaRender.sln
+SuicaRender.vcxproj
+SuicaRender.vcxproj.filters
+SuicaRender.vcxproj.user
+*.o
+main
